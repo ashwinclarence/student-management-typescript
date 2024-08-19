@@ -1,0 +1,62 @@
+[
+    {
+        "rollNumber": 1,
+        "name": "Alice",
+        "age": 21,
+        "standard": "5th"
+    },
+    {
+        "rollNumber": 2,
+        "name": "Bob",
+        "age": 23,
+        "standard": "7th"
+    },
+    {
+        "rollNumber": 3,
+        "name": "John",
+        "age": 22,
+        "standard": "6th"
+    },
+    {
+        "rollNumber": 4,
+        "name": "Emma",
+        "age": 20,
+        "standard": "4th"
+    },
+    {
+        "rollNumber": 5,
+        "name": "Charlie",
+        "age": 24,
+        "standard": "8th"
+    },
+    {
+        "rollNumber": 6,
+        "name": "David",
+        "age": 19,
+        "standard": "3rd"
+    },
+    {
+        "rollNumber": 7,
+        "name": "Sophia",
+        "age": 22,
+        "standard": "6th"
+    },
+    {
+        "rollNumber": 8,
+        "name": "James",
+        "age": 21,
+        "standard": "5th"
+    },
+    {
+        "rollNumber": 9,
+        "name": "Olivia",
+        "age": 23,
+        "standard": "7th"
+    },
+    {
+        "rollNumber": 10,
+        "name": "Michael",
+        "age": 20,
+        "standard": "4th"
+    }
+]

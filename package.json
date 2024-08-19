@@ -1,0 +1,23 @@
+{
+  "name": "student-management-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"npx tsc",
+    "start": "node dest/app.js",
+    "dev":"ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
